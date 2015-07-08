@@ -26,11 +26,11 @@ include("./templates/header.php");
 					<div class="description">
 						<div class="dicePoker s-dicePoker" id="p01">
 							<p>It's like Playing Poker...but with Dice.</p>
-							<a href="dice-poker/">Play Dice Poker</a>
+							<a href="dice-poker/" target="_blank">Play Dice Poker</a>
 						</div>
 						<div class="dnd-Adventure s-dnd-Adventure" id="p02">
 							<p>Survive 10 rounds with simple D&amp;D adventure game.</p>
-							<a href="dnd-adventure">Play D&amp;D Adventure</a>
+							<a href="dnd-adventure/" target="_blank">Play D&amp;D Adventure</a>
 						</div>
 					</div>
 				</div>

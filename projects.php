@@ -31,15 +31,15 @@ include("./templates/header.php");
 					<div class="description">
 						<div class="TWD s-TWD" id="p01">
 							<p>Redesigning BCIT Technical Web Designer Program's internal website.</p>
-							<a href="twd/">Visit Website</a>
+							<a href="twd/" target="_blank">Visit Website</a>
 						</div>
 						<div class="fieldToFork s-fieldToFork" id="p02">
 							<p>Redesigned website for 'Field to Fork Herbs', a local organic herb business.</p>
-							<a href="http://fieldtoforkherbs.com">Visit Website</a>
+							<a href="http://fieldtoforkherbs.com" target="_blank">Visit Website</a>
 						</div>
 						<div class="thumbnail s-thumbnail" id="p03">
 							<p>PHP script for generating thumbnail and cropping image</p>
-							<a href="#">Launch Script</a>
+							<a href="thumb-gen/" target="_blank">Launch Script</a>
 						</div>
 					</div>
 				</div>
